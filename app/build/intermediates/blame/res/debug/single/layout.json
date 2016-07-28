@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/res/merged/debug/layout/fragment_display.xml",
+        "source": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/src/main/res/layout/fragment_display.xml"
+    },
+    {
+        "merged": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/res/merged/debug/layout/row_layout.xml",
+        "source": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/src/main/res/layout/row_layout.xml"
+    },
+    {
+        "merged": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/res/merged/debug/layout/activity_stop_tracker.xml",
+        "source": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/src/main/res/layout/activity_stop_tracker.xml"
+    },
+    {
+        "merged": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/res/merged/debug/layout/activity_starting.xml",
+        "source": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/src/main/res/layout/activity_starting.xml"
+    }
+]

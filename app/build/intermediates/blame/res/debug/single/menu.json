@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/res/merged/debug/menu/starting.xml",
+        "source": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/src/main/res/menu/starting.xml"
+    },
+    {
+        "merged": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/res/merged/debug/menu/stop_tracker_actvity.xml",
+        "source": "/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/src/main/res/menu/stop_tracker_actvity.xml"
+    }
+]

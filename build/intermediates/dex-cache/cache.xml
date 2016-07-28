@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/libs/opencsv-2.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/transforms/dex/debug/folders/1000/2/opencsv-2.3_330a3dad614e3a54fdffe1a66e3765fe6d42c3b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/oliverbudiardjo/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.5.0/a10732c76bfacdbd633a7eb0f7968b1059a65dfa/protobuf-java-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-java-2.5.0_089358ca21b0a07a84241c954537dd96cfeca8ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c36d2ef5b63823d342c6f7669c86670f086912e">
+        <dex dex="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f0207699f99f2e2c3b921ef544a2cb8d4f9a0be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b7dbb0ec921d83f0e0a9ed944deba56ebbfe130">
+        <dex dex="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_32172565db71ce49fb43871de1a053c1479857c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/oliverbudiardjo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_4ed3060541b4de700090fdf8b52a70e2914c0d5f/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="86793062928790"
+    token="-4788276310863235240" >
+
+    <task
+        name="javac"
+        duration="367" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="126" />
+    <task
+        name="verifier"
+        duration="28" />
+
+    <artifact
+        location="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="86793062928790" >
+        <artifact
+            location="/Users/oliverbudiardjo/Documents/workspace/SubwayStopper1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
